@@ -5,7 +5,7 @@
     {
       "children": [
       {
-        "name": "WhatsMyName",
+        "name": "TestNameChangeWhatsmyname",
         "type": "url",
         "url": "https://whatsmyname.app/"
       },
